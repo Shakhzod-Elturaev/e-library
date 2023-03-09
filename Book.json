@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Sherlock Holmes and Doctor Watson",
+    "author": "Arthur Conan Doyl",
+    "numberOfBook": 5,
+    "numOfBorrowedBooks": 2,
+    "id": "23a086f6-9ae2-4e31-9315-370c48d02099"
+  },
+  {
+    "title": "Yulduzli Tunlar",
+    "author": "Pirimqul Qodirov",
+    "numberOfBook": 3,
+    "numOfBorrowedBooks": 0,
+    "id": "61aa545b-3178-4c28-b9ef-0a731f169976"
+  }
+]

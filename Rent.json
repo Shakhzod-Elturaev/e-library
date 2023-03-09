@@ -1,0 +1,22 @@
+[
+  {
+    "userId": "10e0bb95-74d9-41e1-be08-ca69d5345a44",
+    "bookId": "23a086f6-9ae2-4e31-9315-370c48d02099",
+    "status": "RENTED"
+  },
+  {
+    "userId": "4d3944d1-a228-41af-bfc5-541f36e55baf",
+    "bookId": "23a086f6-9ae2-4e31-9315-370c48d02099",
+    "status": "RENTED"
+  },
+  {
+    "userId": "10e0bb95-74d9-41e1-be08-ca69d5345a44",
+    "bookId": "61aa545b-3178-4c28-b9ef-0a731f169976",
+    "status": "RETURNED"
+  },
+  {
+    "userId": "10e0bb95-74d9-41e1-be08-ca69d5345a44",
+    "bookId": "61aa545b-3178-4c28-b9ef-0a731f169976",
+    "status": "RETURNED"
+  }
+]

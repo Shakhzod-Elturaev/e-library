@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Shakhzod",
+    "phoneNumber": "+998942001125",
+    "password": "shakhzod1125",
+    "role": "LIBRARIAN",
+    "id": "501827ab-1eb3-4cea-af11-28c37539ec0b"
+  },
+  {
+    "name": "John",
+    "phoneNumber": "+998932221122",
+    "password": "john1122",
+    "role": "USER",
+    "block": false,
+    "id": "10e0bb95-74d9-41e1-be08-ca69d5345a44"
+  },
+  {
+    "name": "Richard",
+    "phoneNumber": "+998901234567",
+    "password": "richard33",
+    "role": "USER",
+    "block": false,
+    "id": "4d3944d1-a228-41af-bfc5-541f36e55baf"
+  },
+  {
+    "name": "Kelly",
+    "phoneNumber": "+998999999999",
+    "password": "kelly99",
+    "role": "USER",
+    "block": true,
+    "id": "a07cad4e-4f80-48f2-86c0-158be434e8f3"
+  }
+]
