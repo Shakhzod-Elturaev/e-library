@@ -65,7 +65,7 @@ public class RentServiceImp implements RentService{
                 rents.add(readDatum);
             }
         }
-        return new ArrayList<>(rents);
+        return rents;
     }
 
     @Override
